@@ -9,6 +9,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
-- Official release of Dark Castle Wallpaper.
+- Official release of **Dark Castle Theme Wallpaper**.
 
 [1.0.0]: https://github.com/scottgriv/Dark-Castle-Wallpaper/releases/tag/v1.0.0

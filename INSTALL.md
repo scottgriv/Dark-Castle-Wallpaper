@@ -1,4 +1,4 @@
-## Dark Castle Wallpaper
+## Dark Castle Theme Wallpaper
 
 ### Install using Git
 
@@ -16,3 +16,4 @@ Download using the [GitHub `.zip` download](https://github.com/scottgriv/Dark-Ca
 
 1. Reference the [wallpapers](./wallpapers/) folder for the wallpaper that fits your device.
 2. Apply the downloaded wallpaper to your device!
+3. Enjoy!
